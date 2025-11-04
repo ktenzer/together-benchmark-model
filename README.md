@@ -4,12 +4,12 @@ A modern web application for uploading, analyzing, and modeling LLM benchmark pe
 
 ## Features
 
-- 📊 **CSV Upload**: Upload benchmark results in CSV format
-- 📈 **Performance Modeling**: Predict performance metrics based on input/output tokens
-- 🎯 **Multi-Model Support**: Manage benchmarks for multiple LLM models
-- 📉 **Visual Analytics**: Interactive charts showing TTFT, throughput, and latency
-- 🔍 **Confidence Scoring**: Get confidence levels (high/medium/low) for predictions
-- 💾 **SQLite Storage**: Lightweight database for benchmark storage
+- **CSV Upload**: Upload benchmark results in CSV format
+- **Performance Modeling**: Predict performance metrics based on input/output tokens
+- **Multi-Model Support**: Manage benchmarks for multiple LLM models
+- **Visual Analytics**: Interactive charts showing TTFT, throughput, and latency
+- **Confidence Scoring**: Get confidence levels (high/medium/low) for predictions
+- **SQLite Storage**: Lightweight database for benchmark storage
 
 ## Architecture
 
